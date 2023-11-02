@@ -12,7 +12,7 @@
 
 ## Usage
 + **You can use command /fps**
-+ **2 types of settings:Normal, Boost**
++ **2 types of settings: Normal, Boost**
 + **normal command used to restore original settings**
 
 
